@@ -2,8 +2,6 @@
 Hack the Track presented by Toyota GR
 # GR Cup Strategy Center
 
-# GR Cup Strategy Center
-
 ## Overview
 The **GR Cup Strategy Center** is a cutting-edge, real-time race strategy and psychology analysis platform designed for the Toyota GR Cup. It combines telemetry data, Monte Carlo simulations, and AI-driven psychological profiling to provide race engineers and drivers with actionable insights.
 
