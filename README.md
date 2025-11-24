@@ -1,6 +1,5 @@
 # HackTheTrack
 Hack the Track presented by Toyota GR
-
 # GR Cup Strategy Center
 
 ## Overview
@@ -90,6 +89,16 @@ An industry-first AI module for analyzing driver psychology.
     npm start
     ```
     The application will open in your browser at `http://localhost:3000`.
+
+### Quick Start (Development)
+For a streamlined development experience, you can start both the backend and frontend servers concurrently using the following command from the root directory:
+
+1.  Ensure dependencies are installed for both backend and frontend (see below).
+2.  Run the development script:
+    ```bash
+    npm run dev
+    ```
+    This will start the backend on port 8000 and the frontend on port 3000.
 
 ## License
 Proprietary software developed for the Toyota GR Cup. All rights reserved.
