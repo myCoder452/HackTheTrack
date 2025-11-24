@@ -53,6 +53,23 @@ An industry-first AI module for analyzing driver psychology.
 - **Node.js** (v16 or higher)
 - **Python** (v3.9 or higher)
 
+### Docker Setup (Recommended)
+The easiest way to run the application is using Docker Compose. This will set up the backend, frontend, database, and Redis cache automatically.
+
+1.  Ensure you have Docker and Docker Compose installed.
+2.  Run the following command from the root directory:
+    ```bash
+    docker-compose up -d --build
+    ```
+3.  Access the application:
+    - Frontend: `http://localhost:3000`
+    - Backend API: `http://localhost:8000`
+
+For more detailed instructions, see [INSTALLATION.md](INSTALLATION.md).
+
+### Manual Setup
+If you prefer to run the application locally without Docker (or only use Docker for the database), follow these steps:
+
 ### Backend Setup
 1.  Navigate to the backend directory:
     ```bash
