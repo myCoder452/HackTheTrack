@@ -2,6 +2,8 @@
 Hack the Track presented by Toyota GR
 # GR Cup Strategy Center
 
+# GR Cup Strategy Center
+
 ## Overview
 The **GR Cup Strategy Center** is a cutting-edge, real-time race strategy and psychology analysis platform designed for the Toyota GR Cup. It combines telemetry data, Monte Carlo simulations, and AI-driven psychological profiling to provide race engineers and drivers with actionable insights.
 
@@ -93,8 +95,8 @@ An industry-first AI module for analyzing driver psychology.
 ### Quick Start (Development)
 For a streamlined development experience, you can start both the backend and frontend servers concurrently using the following command from the root directory:
 
-1.  Ensure dependencies are installed for both backend and frontend (see below).
-2.  Run the development script:
+1.  Ensure dependencies are installed for both backend and frontend (see above).
+2.  Run the development script from within the gr-cup-strategy-center directory:
     ```bash
     npm run dev
     ```
