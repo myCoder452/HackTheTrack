@@ -113,7 +113,7 @@ If you prefer to run the application locally without Docker (or only use Docker 
 For a streamlined development experience, you can start both the backend and frontend servers concurrently using the following command from the root directory:
 
 1.  Ensure dependencies are installed for both backend and frontend (see above).
-2.  Run the development script from within the gr-cup-strategy-center directory:
+2.  Run the complete development script from within the gr-cup-strategy-center directory:
     ```bash
     npm run dev
     ```
